@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+button {
+    margin-top: 10px;
+}
