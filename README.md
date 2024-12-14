@@ -21,23 +21,16 @@ Prerequisites
 * Node.js (>= 14.x)
 * npm (>= 6.x) or yarn
 
-Steps
-
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-
 Install dependencies:
 
 npm install
-# or
+or
 yarn install
 
 Start the development server:
 
 npm start
-# or
+or
 yarn start
 
 Open the app in your browser at http://localhost:3000. 
